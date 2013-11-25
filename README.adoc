@@ -20,7 +20,6 @@ You'll create an Android application that gives you the time of day, and then bu
  - An Android device or Emulator
 
 
-:jump_ahead: Install Maven
 include::https://raw.github.com/spring-guides/getting-started-macros/master/how_to_complete_this_guide.adoc[]
 
 
