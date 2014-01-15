@@ -1,3 +1,7 @@
+---
+tags: [android, maven]
+projects: [spring-android]
+---
 :spring_boot_version: 0.5.0.M6
 :Android_Manifest: http://developer.android.com/guide/topics/manifest/manifest-intro.html
 :Android_Maven_Plugin: https://code.google.com/p/maven-android-plugin
