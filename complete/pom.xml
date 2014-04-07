@@ -31,9 +31,6 @@
                     <sdk>
                         <platform>19</platform>
                     </sdk>
-                    <sign>
-                        <debug>false</debug>
-                    </sign>
                     <deleteConflictingFiles>true</deleteConflictingFiles>
                     <undeployBeforeDeploy>true</undeployBeforeDeploy>
                 </configuration>
